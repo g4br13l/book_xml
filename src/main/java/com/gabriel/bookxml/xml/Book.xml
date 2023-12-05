@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xml" href="Book.xsl" version="2.0"?>
+
+<book>
+    <book_id>81f9b15a-5d50-43a9-8e27-b8373d97d126</book_id>
+    <name>Name book ten</name>
+    <pagesNumber>300</pagesNumber>
+    <chapters>
+        <chapter>
+            <chapter_id>8abe2f1a-d5a4-4f50-9b9e-62eb3ce12a0a</chapter_id>
+            <title>Title chapter eleven</title>
+            <text>Text chapter eleven</text>
+            <pages/>
+        </chapter>
+        <chapter>
+            <chapter_id>4284581d-449a-4cfa-aa41-2bae92fb720f</chapter_id>
+            <title>Title chapter twelve</title>
+            <text>Text chapter twelve</text>
+        </chapter>
+    </chapters>
+</book>
